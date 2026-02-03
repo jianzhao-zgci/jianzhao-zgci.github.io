@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "赵鉴"
-description              : "赵鉴的个人主页 "
+description              : # "赵鉴的个人主页 "
 repository               : "jianzhao-zgci/jianzhao-zgci.github.io"
 google_scholar_stats_use_cdn : true
 
