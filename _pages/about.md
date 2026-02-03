@@ -1,4 +1,4 @@
----
+<img width="172" height="70" alt="image" src="https://github.com/user-attachments/assets/fd7bea31-717f-4940-a8f2-300b41f1ba54" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -17,42 +17,42 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+赵鉴现任北京中关村学院助理教授，博士生导师，中关村人工智能研究院研究员，2018年获中国科学技术大学工学学士学位，2023年获该校工学博士学位，其博士毕业论文获得2024年度中国智能体与多智能体系统优秀博士论文提名奖（全国仅5人）。目前已在NeurIPS、ICML、ICLR等国际顶尖学术会议和期刊上发表论文40余篇。曾获得第一届腾讯全球开悟多智能体强化学习大赛冠军（奖金25万），RLChina 智能体挑战赛2021夏季赛冠军，2022春季赛冠军等学术竞赛奖项。作为项目负责人主导腾讯、网易等产业合作项目。
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔥 主持项目
+- 基于AI Agents的主动行为决策 CCF-网易雷火联合基金 2025.8-2026.7
+- 基于强化学习的智能决策人工智能课程建设 教育部-腾讯产学合作协同育人项目 2025.12-2026.11
+- 可交互数字智能创新平台构建与应用研究 院立项目 2025.11-2028.11
+- 面向真实游戏场景的颠覆式AI技术研发 中关村学院-腾讯联合培养项目 2026.1-2029.1
 
-# 📝 Publications 
+# 📝 学术成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- 近五年发表多智能体强化学习相关学术论文37篇，一作/通讯论文13篇
+- 两篇一作论文获IEEE Transactions on Games最受欢迎论文Top50
+- 博士论文获CCF多智能体系统学组优秀博士论文提名奖（全国仅5人）
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+# 🎖 获得奖项
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- 获得第一届腾讯开悟多智能体强化学习大赛冠军
+- 获得两次RLchina比赛冠军
+- 获IJCAI、AAMAS、NeurIPS等十余项学术竞赛奖项
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+# 📖 教育经历
+- *2018.9 - 2023.6* 中国科学技术大学 博士 
+- *2014.9 - 2018.6* 中国科学技术大学 学士
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 💬 创业经历
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2023年担任强化学习创业公司南栖仙策担任算法VP 
+- 申请发明专利超*20*项，累计创造商业价值达*1亿元*
+- 公司获机器之心评选的2024年AI领军企业*Top20*
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 工作经历
+- *2025.3 - 至今 *,     中关村人工智能研究院,                  研究员
+- *2025.3 - 至今 *,     北京中关村学院,                       博士生导师
+- *2023.6 - 2025.3*,    南栖仙策（南京）科技有限公司,          算法副总裁
+- *2020.1 - 2020.12*,   腾讯-游戏AI研发中心,                  算法实习生
+- *2017.7 - 2018.8*,    微软亚洲研究院,                       算法实习生
