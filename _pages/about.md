@@ -61,6 +61,7 @@ redirect_from:
 - *2014.9 - 2018.6* 中国科学技术大学 学士
 
 
+
 <span class='anchor' id='workexperience'></span>
 # 💻 工作经历
 - *2025.3 - 至今*,     中关村人工智能研究院,                  研究员
