@@ -9,14 +9,11 @@ main:
   - title: "学术成果"
     url: "/#publications"
 
-  - title: "获得奖项"
+  - title: "竞赛奖项"
     url: "/#honors-and-awards"
 
   - title: "教育经历"
     url: "/#educations"
-
-  - title: "创业经历"
-    url: "/#entrepreneurship"
 
   - title: "工作经历"
     url: "/#workexperience"
