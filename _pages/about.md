@@ -19,6 +19,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 赵鉴现任北京中关村学院助理教授，博士生导师，中关村人工智能研究院研究员，2018年获中国科学技术大学工学学士学位，2023年获该校工学博士学位，其博士毕业论文获得2024年度中国智能体与多智能体系统优秀博士论文提名奖（全国仅5人）。目前已在NeurIPS、ICML、ICLR等国际顶尖学术会议和期刊上发表论文40余篇。曾获得第一届腾讯全球开悟多智能体强化学习大赛冠军（奖金25万），RLChina 智能体挑战赛2021夏季赛冠军，2022春季赛冠军等学术竞赛奖项。作为项目负责人主导腾讯、网易等产业合作项目。
+课题组主页: https://zgc-webcompetition.gitee.io/aigame-lab/
 
 
 <span class='anchor' id='projects'></span>
