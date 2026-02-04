@@ -43,6 +43,7 @@ redirect_from:
 <span class='anchor' id='honors-and-awards'></span>
 # 🎖 竞赛奖项
 
+- 第一届腾讯开悟多智能体强化学习大赛冠军
 - IJCAI2020国标麻将比赛殿军
 - 斗地主AI超越快手Douzero，botzone排名稳定第一
 - NeurIPS RL自动驾驶比赛亚军 
