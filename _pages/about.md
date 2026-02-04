@@ -19,7 +19,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 赵鉴现任北京中关村学院助理教授，博士生导师，中关村人工智能研究院研究员，2018年获中国科学技术大学工学学士学位，2023年获该校工学博士学位，其博士毕业论文获得2024年度中国智能体与多智能体系统优秀博士论文提名奖（全国仅5人）。目前已在NeurIPS、ICML、ICLR等国际顶尖学术会议和期刊上发表论文40余篇。曾获得第一届腾讯全球开悟多智能体强化学习大赛冠军（奖金25万），RLChina 智能体挑战赛2021夏季赛冠军，2022春季赛冠军等学术竞赛奖项。作为项目负责人主导腾讯、网易等产业合作项目。
-课题组主页: https://zgc-webcompetition.gitee.io/aigame-lab/
+
+[课题组主页] (https://zgc-webcompetition.gitee.io/aigame-lab/)
 
 
 <span class='anchor' id='projects'></span>
@@ -36,26 +37,29 @@ redirect_from:
 - 两篇一作论文获IEEE Transactions on Games最受欢迎论文Top50
 - 博士论文获CCF多智能体系统学组优秀博士论文提名奖（全国仅5人）
 
+[谷歌学术链接](https://scholar.google.com/citations?user=n6zuurcAAAAJ&hl=zh-CN&oi=ao)
+
 
 <span class='anchor' id='honors-and-awards'></span>
-# 🎖 获得奖项
+# 🎖 竞赛奖项
 
-- 获得第一届腾讯开悟多智能体强化学习大赛冠军
-- 获得两次RLchina比赛冠军
-- 获IJCAI、AAMAS、NeurIPS等十余项学术竞赛奖项
+- IJCAI2020国标麻将比赛殿军
+- 斗地主AI超越快手Douzero，botzone排名稳定第一
+- NeurIPS RL自动驾驶比赛亚军 
+- IEEE BigData Cup 2021: RL based RecSys冠军 
+-《射手大陆》游戏AI 获字节夏令营第一名
+- RLchina2021夏季赛“三人贪吃蛇”冠军
+- RLchina2022春季赛“奥林匹克冰壶”冠军
+- RLchina2022秋季赛“奥林匹克相扑”季军
+- RLchina2022冬季赛“奥林匹克曲棍球”季军
+- AAMAS 桥牌竞赛 亚军； 四人麻将 亚军；四人无限注德扑 殿军
+- COG2022-第一人称射击类游戏(FPS)AI 三个赛道全部冠军（导航，收集物资，战斗）
 
 <span class='anchor' id='educations'></span>
 # 📖 教育经历
 - *2018.9 - 2023.6* 中国科学技术大学 博士 
 - *2014.9 - 2018.6* 中国科学技术大学 学士
 
-
-<span class='anchor' id='entrepreneurship'></span>
-# 💬 创业经历
-
-- 2023年担任强化学习创业公司南栖仙策担任算法VP 
-- 申请发明专利超**20**项，累计创造商业价值达**1亿元**
-- 公司获机器之心评选的2024年AI领军企业**Top20**
 
 <span class='anchor' id='workexperience'></span>
 # 💻 工作经历
