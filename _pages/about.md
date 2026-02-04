@@ -48,8 +48,8 @@ redirect_from:
 - IJCAI2020国标麻将比赛殿军
 - 斗地主AI超越快手Douzero，botzone排名稳定第一
 - NeurIPS RL自动驾驶比赛亚军 
-- IEEE BigData Cup 2021: RL based RecSys冠军 
--《射手大陆》游戏AI 获字节夏令营第一名
+- IEEE BigData Cup 2021: RL based RecSys冠军
+- 《射手大陆》游戏AI 获字节夏令营第一名
 - RLchina2021夏季赛“三人贪吃蛇”冠军
 - RLchina2022春季赛“奥林匹克冰壶”冠军
 - RLchina2022秋季赛“奥林匹克相扑”季军
